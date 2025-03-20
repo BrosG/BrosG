@@ -1,16 +1,19 @@
-## Hi there 👋
+### Hi there, I'm Gauthier Bros! 👋
 
-<!--
-**BrosG/BrosG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Entrepreneur | Developer | Innovator**
 
-Here are some ideas to get you started:
+I'm the founder of **Atayen**, known for creating iFrame apps solutions for Facebook and blockchain-based advertising solutions like **SaTT**. I specialize in AI, automation, SaaS, and blockchain development, constantly building cutting-edge tools and platforms.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🔥 What I Do
+- **AI & Automation** – Creating AI-powered SaaS and automation tools.
+- **Blockchain & Crypto** – Developing smart contract-based solutions.
+- **Economic & Legal Tech** – Building simulations and financial analysis tools.
+- **WordPress Development** – Crafting plugins and SaaS solutions.
+- **Gaming & Interactive Apps** – Engaging user experiences with Telegram and Web3 integrations.
+
+---
+
+
+⚡ Always open to new projects, collaborations, and innovative ideas!
